@@ -1,5 +1,4 @@
-# Proje_3
-
+# Masaüstü giriş ile kişi ekleme projesi
 
 <img width="152" alt="mas1png" src="https://github.com/Archerprooo/Proje_3/assets/161921350/2daa0ffb-65c6-4112-84da-61b9fec29ce2">
 
